@@ -1,11 +1,8 @@
----
-
 # 🎓 EDT-Universitaire - Système de Gestion d'Emploi du Temps
 ### Projet Académique ICT 203 | Année 2025/2026 | Université de Yaoundé I (UY1)
 
 **EDT-Universitaire** est une solution logicielle de pointe conçue pour moderniser la planification académique au sein de l'UY1. Elle répond aux problématiques complexes de gestion des ressources (salles/enseignants) tout en offrant une interface utilisateur fluide et intuitive pour l'ensemble de la communauté universitaire.
 
----
 
 ## 🌟 Fonctionnalités du Système
 
